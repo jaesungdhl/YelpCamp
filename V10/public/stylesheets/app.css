@@ -1,0 +1,33 @@
+.jumbotron{
+    margin: 0 10%;
+}
+
+.container{
+    margin: 0 10%;
+    max-width: 80%;
+}
+
+.row{
+    width:inherit;
+}
+
+.card{
+    height:300px;
+}
+
+
+#index img{
+    width:100%;
+    object-fit: cover;
+    height: 200px;
+}
+
+#show img{
+    width:100%;
+    object-fit:cover;
+    height:600px;
+}
+
+#campgroundForm{
+    margin:0 20%;
+}
