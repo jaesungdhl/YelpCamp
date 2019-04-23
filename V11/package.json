@@ -4,6 +4,7 @@
   "description": "YelpCamp Ver.1.0",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jae Sung Lee",
